@@ -8,6 +8,7 @@ public class ContDemo {
 			if ((i%2)!=0) continue;
 			System.out.println(i);	
 			System.out.println(i);	
+			System.out.println(i);	
 		}
 	}
 }
