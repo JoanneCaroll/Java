@@ -1,9 +1,9 @@
-import java.util.*;
+//import java.util.*;
 
 public class TwoDimensionalArray {
 	public static void main(String args[])
 	{
-		Random rn = new Random();
+		//Random rn = new Random();
 		int table[][] = new int[3][4];
 		int val;
 		System.out.println("Table of two-dimensional array:\n");
